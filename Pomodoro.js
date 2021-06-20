@@ -1,4 +1,4 @@
-(function(){
+
 
     "use strict";
 
@@ -232,4 +232,4 @@
         return document.getElementsByClassName(className);
     }
 
-})
+
